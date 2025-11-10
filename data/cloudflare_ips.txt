@@ -1,10 +1,7 @@
-162.159.45.173#{'error': True, 'reason': 'RateLimited', 'message': 'Visit https://ipapi.co/ratelimited/ for details'}🏳️
-162.159.38.182#美国🇺🇸
-162.159.39.12#{'error': True, 'reason': 'RateLimited', 'message': 'Visit https://ipapi.co/ratelimited/ for details'}🏳️
-162.159.44.33#{'error': True, 'reason': 'RateLimited', 'message': 'Visit https://ipapi.co/ratelimited/ for details'}🏳️
-108.162.198.186#美国🇺🇸
-172.64.229.22#加拿大🇨🇦
-172.64.159.2#{'error': True, 'reason': 'RateLimited', 'message': 'Visit https://ipapi.co/ratelimited/ for details'}🏳️
-172.64.151.110#{'error': True, 'reason': 'RateLimited', 'message': 'Visit https://ipapi.co/ratelimited/ for details'}🏳️
-104.18.34.254#{'error': True, 'reason': 'RateLimited', 'message': 'Visit https://ipapi.co/ratelimited/ for details'}🏳️
-162.159.46.67#加拿大🇨🇦
+108.162.198.56
+162.159.44.38
+162.159.38.178
+162.159.39.114
+162.159.45.165
+104.18.41.22
+162.159.36.237
