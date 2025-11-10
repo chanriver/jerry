@@ -1,10 +1,10 @@
-162.159.38.224#{'error': True, 'reason': 'RateLimited', 'message': 'Visit https://ipapi.co/ratelimited/ for details'}🏳️
-108.162.198.178#美国🇺🇸
-162.159.45.20#{'error': True, 'reason': 'RateLimited', 'message': 'Visit https://ipapi.co/ratelimited/ for details'}🏳️
-162.159.33.87#{'error': True, 'reason': 'RateLimited', 'message': 'Visit https://ipapi.co/ratelimited/ for details'}🏳️
-162.159.39.236#{'error': True, 'reason': 'RateLimited', 'message': 'Visit https://ipapi.co/ratelimited/ for details'}🏳️
-162.159.11.169#Too many rapid requests. Please try again shortly or reach out to us at https://ipapi.co/contact🏳️
-162.159.44.148#Too many rapid requests. Please try again shortly or reach out to us at https://ipapi.co/contact🏳️
-104.18.44.54#Too many rapid requests. Please try again shortly or reach out to us at https://ipapi.co/contact🏳️
-172.64.144.208#Too many rapid requests. Please try again shortly or reach out to us at https://ipapi.co/contact🏳️
-104.18.43.218#Too many rapid requests. Please try again shortly or reach out to us at https://ipapi.co/contact🏳️
+162.159.45.173#美国🇺🇸
+162.159.38.182#美国🇺🇸
+162.159.39.12#{'error': True, 'reason': 'RateLimited', 'message': 'Visit https://ipapi.co/ratelimited/ for details'}🏳️
+162.159.44.33#美国🇺🇸
+108.162.198.186#{'error': True, 'reason': 'RateLimited', 'message': 'Visit https://ipapi.co/ratelimited/ for details'}🏳️
+172.64.229.22#Too many rapid requests. Please try again shortly or reach out to us at https://ipapi.co/contact🏳️
+172.64.159.2#Too many rapid requests. Please try again shortly or reach out to us at https://ipapi.co/contact🏳️
+172.64.151.110#Too many rapid requests. Please try again shortly or reach out to us at https://ipapi.co/contact🏳️
+104.18.34.254#Too many rapid requests. Please try again shortly or reach out to us at https://ipapi.co/contact🏳️
+162.159.46.67#Too many rapid requests. Please try again shortly or reach out to us at https://ipapi.co/contact🏳️
