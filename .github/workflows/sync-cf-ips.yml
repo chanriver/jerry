@@ -2,7 +2,7 @@ name: Sync Cloudflare IPs
 
 on:
   schedule:
-    - cron: '0 */6 * * *'  # 每6小时自动运行一次
+   # - cron: '0 */6 * * *'  # 每6小时自动运行一次
   workflow_dispatch: {}     # 允许手动触发
 
 jobs:
@@ -32,3 +32,4 @@ jobs:
             git commit -m "Update Cloudflare IPs ($(date -u '+%Y-%m-%d %H:%M:%S UTC'))"
             git push https://$GITHUB_ACTOR:$GH_TOKEN@github.com/chanriver/jerry.git HEAD:main
           fi
+
